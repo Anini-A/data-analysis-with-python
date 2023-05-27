@@ -17,11 +17,13 @@ Dedicated to apply my new skills to solve real-world data analysis challenges ðŸ
 
 Project 1: [Mean-Variance-Standard Deviation Calculator](https://github.com/Anini-A/data-analysis-with-python/blob/902ae0e0c78401b963e386971a4b2f8b2485c78d/Mean-Variance-Standard%20Deviation%20Calculator.ipynb)
 
-Project 2: [Demographic_data_analyzer](https://github.com/Anini-A/data-analysis-with-python/blob/3e8d16ff0f9c29b6d92794ef5ea61d1a3ccaeaf3/Demographic/Demographic%20data%20analyzer.ipynb)
+Project 2: [Demographic_data_analyzer](https://github.com/Anini-A/data-analysis-with-python/blob/aef38220524c9dfad9d93f2248dacfab954b4465/Demographic/Demographic%20data%20analyzer.ipynb)
 
-Project 3: [CISCO ISE Deployment](https://github.com/Anini-A/School-Projects/blob/63adf30021f27b21f3e6d3ea249a584203b1ff52/README%20CISCO%20ISE%20Deployment.md)  
+Project 3: [Medical Data visualizer](https://github.com/Anini-A/data-analysis-with-python/blob/aef38220524c9dfad9d93f2248dacfab954b4465/Medical%20Data/Medical%20Data%20Visualizer.ipynb)  
 
-Project 4: [Fiber to the Home](https://github.com/Anini-A/School-Projects/blob/63adf30021f27b21f3e6d3ea249a584203b1ff52/README%20Fiber%20To%20The%20Home.md)
+Project 4: [Page View Time Series Visualizer](https://github.com/Anini-A/data-analysis-with-python/blob/aef38220524c9dfad9d93f2248dacfab954b4465/Page%20View%20Time%20Series/Page%20View%20Time%20Series%20Visualizer.ipynb)
+
+Project 5: [Sea Level Predictor](https://github.com/Anini-A/data-analysis-with-python/blob/aef38220524c9dfad9d93f2248dacfab954b4465/Sea%20Level/Sea%20Level%20Predictor.ipynb)
 
 <hr>
 
