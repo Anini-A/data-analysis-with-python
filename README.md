@@ -2,7 +2,7 @@
 [FreeCodeCamp Course - Data Analysis with Python](
 https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-Throughout the course, I have learned essential techniques and tools for data manipulation, cleaning, visualization, and statistical analysis. I am now equipped with the ability to analyze data effectively, derive insights, and communicate findings through compelling visualizations.
+Throughout the course, I have learned essential techniques and tools for data manipulation, cleaning, visualization, and statistical analysis. I am now equipped with the ability to analyze data effectively.
 
 1. **Data manipulation and cleaning:** Gained expertise in handling and transforming data, dealing with missing values, and addressing inconsistencies in datasets.
 2. **Exploratory data analysis:** Learned techniques to explore and visualize data, identify patterns, and uncover insights using tools like Pandas and Matplotlib.
