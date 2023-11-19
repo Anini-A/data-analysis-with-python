@@ -17,7 +17,7 @@ Dedicated to apply my new skills to solve real-world data analysis challenges ðŸ
 
 Project 1: [Mean-Variance-Standard Deviation Calculator](https://github.com/Anini-A/data-analysis-with-python/blob/902ae0e0c78401b963e386971a4b2f8b2485c78d/Mean-Variance-Standard%20Deviation%20Calculator.ipynb)
 
-Project 2: [Demographic_data_analyzer](https://github.com/Anini-A/data-analysis-with-python/blob/aef38220524c9dfad9d93f2248dacfab954b4465/Demographic/Demographic%20data%20analyzer.ipynb)
+Project 2: [Demographic_data_analyzer](https://github.com/Anini-A/data-analysis-with-python/blob/main/Demographic/Demographic%20data%20analyzer.ipynb)
 
 Project 3: [Medical Data visualizer](https://github.com/Anini-A/data-analysis-with-python/blob/aef38220524c9dfad9d93f2248dacfab954b4465/Medical%20Data/Medical%20Data%20Visualizer.ipynb)  
 
